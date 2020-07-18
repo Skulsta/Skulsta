@@ -2,7 +2,7 @@
  
 👋 Hi! I'm a software developer working on [Tipio](https://tipio.no).
 
-## ☕️ Wanna chat?
+##  ☕️ Wanna chat?
 I'm mostly developing software for web and mobile. Other intriguing areas are augmented reality, virtual assistants, and entrepreneurship. Want to have a talk about tech or something completely different?? 👉 @ me on [Twitter](https://twitter.com/skulsta) anytime!
 
 <!--
