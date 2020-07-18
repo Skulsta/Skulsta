@@ -1,5 +1,6 @@
 ![Stian and bug](https://github.com/Skulsta/Skulsta/blob/master/profile_bug.jpg)
- 
+
+&nbsp;
 👋 Hi! I'm a software developer working on [Tipio](https://tipio.no).
 
 ## ☕️ Wanna chat?
