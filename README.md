@@ -1,4 +1,4 @@
-![Stian and bug](bug_profile.jpg)
+![Stian and bug](../bug_profile.jpg)
 
 <!--
 **Skulsta/Skulsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
