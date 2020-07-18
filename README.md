@@ -1,5 +1,13 @@
 ![Stian and bug](https://github.com/Skulsta/Skulsta/blob/master/profile_bug.jpg)
 
+👋 Hi! I'm a software developer working on [Tipio](https://tipio.no).
+
+##💬 Talk to me about AR
+I'm mostly developing software for web and mobile. However, the possibilities of AR is intriguing and something I've been looking into both for work and personal interest. Got any questions or input on the topic? Hit me up!
+
+##☕️ Wanna chat?
+👉 @ me on [Twitter](https://twitter.com/skulsta) anytime!
+
 <!--
 **Skulsta/Skulsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
