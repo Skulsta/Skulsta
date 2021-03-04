@@ -1,4 +1,4 @@
-![Stian and bug](https://github.com/Skulsta/Skulsta/blob/master/profile_bug.jpg)
+![Stian and bug](https://github.com/Skulsta/Skulsta/blob/master/profile.jpg)
 
 &nbsp;
 👋 Hi! I'm a software developer working on [Tipio](https://tipio.no).
