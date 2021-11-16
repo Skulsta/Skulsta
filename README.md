@@ -1,5 +1,3 @@
-![Stian and bug](https://github.com/Skulsta/Skulsta/blob/master/profile.jpg)
-
 &nbsp;
 👋 Hi! I'm a software developer working as a consultant in Oslo 🇳🇴
 
