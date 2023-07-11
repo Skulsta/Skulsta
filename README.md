@@ -2,7 +2,7 @@
 👋 Hi! I'm a software developer working as a consultant in Oslo 🇳🇴
 
 ## ☕️ Wanna chat?
-I'm developing software for web and mobile. Want to have a chat about tech or something completely different?? 👉 @ me on [Twitter](https://twitter.com/skulsta) anytime!
+I'm developing software for web and mobile. Want to have a chat about tech or something completely different? 👉 @ me on [Twitter](https://twitter.com/skulsta) anytime!
 
 <!--
 **Skulsta/Skulsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
